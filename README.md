@@ -2,7 +2,7 @@
 
 ¡Bienvenido al Gran Concurso de la ciudad de Salta! 🎉
 
-La municipalidad de Salta ha lanzado una iniciativa revolucionaria para promover el turismo y la adopción de blockchain en la región. Han creado el **SaltaCoin (SC)**, una moneda digital que representa el espíritu emprendedor de la ciudad, y están ofreciendo **PremioTokens (PT)** como NFTs exclusivos para los primeros ciudadanos digitales que participen en su ecosistema.
+La municipalidad de Salta ha lanzado una iniciativa revolucionaria para promover la adopción de blockchain en la región. Han creado el **SaltaCoin (SC)**, una moneda digital que representa el espíritu emprendedor de la ciudad, y están ofreciendo **PremioTokens (PT)** como NFTs exclusivos para los primeros ciudadanos digitales que participen en su ecosistema.
 
 ### 🎯 La Misión
 
