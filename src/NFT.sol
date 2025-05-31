@@ -11,7 +11,6 @@ contract NFT is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable {
     uint256 private _nextTokenId;
     string uri;
     address minter;
-    uint256 max_supply;
 
     modifier onlyMinter() {
         require(msg.sender == minter);
@@ -19,7 +18,7 @@ contract NFT is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable {
     }
 
     constructor(string memory _uri)
-        ERC721("MyToken", "MTK")
+        ERC721("PremioToken", "PT")
         Ownable(msg.sender)
     {
         uri = _uri;
@@ -31,7 +30,7 @@ contract NFT is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable {
         returns (uint256)
     {
         uint256 tokenId = _nextTokenId++;
-        require(tokenId <= max_supply);
+        // require(tokenId <= max_supply);
         _safeMint(to, tokenId);
         _setTokenURI(tokenId, uri);
         return tokenId;

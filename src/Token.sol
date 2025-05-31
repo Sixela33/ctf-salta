@@ -10,9 +10,9 @@ import {Ownable} from "@openzeppelin/contracts/access/Ownable.sol";
 
 contract Token is ERC20, ERC20Burnable, ERC20Pausable, Ownable, ERC20Permit {
     constructor()
-        ERC20("TrabaCoin", "TK")
+        ERC20("SaltaCoin", "SC")
         Ownable(msg.sender)
-        ERC20Permit("MyToken")
+        ERC20Permit("SaltaCoin")
     {}
 
     function pause() public onlyOwner {
