@@ -31,6 +31,13 @@ Como un hábil explorador de blockchain, debes encontrar la manera de:
 
 Habrás completado el CTF cuando logres ser propietario de un PremioToken NFT.
 
+## 📜 Direcciones de los contratos
+
+- **Token Address:** 0xd43a250bb1471cac0bd2771c7a17c77103aaf448
+- **NFT Address:** 0xa728c2931370cae584d6ca7fd2d8e5d434ae0959
+- **SALE Address:** 0x520d8c46751840c3d941fcf4d2c211bf3071c30d
+
+
 ---
 
 ## 🛠️ Información Técnica
